@@ -1,0 +1,43 @@
+h1{
+    color:darkblue;
+}
+h2{
+    color:darkgreen;
+    background-color: lightslategray;
+    padding: 5px;
+}
+#two{
+    color: darkolivegreen;
+}
+ul.b{
+    list-style-type: upper-roman;
+}
+body{
+    border: 5px solid green;
+    padding: 20px;
+}
+body{
+    margin: 80px;
+
+}
+#three{
+    color: purple;
+}
+i{
+    color: purple;
+}
+a:link {
+   color: blue;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: hotpink;
+}
+a:active{
+    color: green;
+}
+h1{
+    position: static;
+}
